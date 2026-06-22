@@ -25,3 +25,10 @@
     display: flex;
     flex-direction: column;
 } */
+
+/* release 5 */
+/* body {
+    display: flex;
+    align-items: flex-end;
+    min-height: 100vh;
+} */

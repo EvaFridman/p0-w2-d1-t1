@@ -1,0 +1,34 @@
+* { box-sizing: border-box; }
+
+/* release 1 */
+/* body {
+    display: flex;
+    justify-content: flex-start;
+    gap: 20px;
+} */
+
+/* release 2 */
+/* body {
+    display: flex;
+    justify-content: space-between;
+} */
+
+/* release 3 */
+/* body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+
+/* release 4 */
+/* body {
+    display: flex;
+    flex-direction: column;
+} */
+
+/* release 5 */
+body {
+    display: flex;
+    align-items:flex-end;
+    min-height: 100vh;
+}
